@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/post-app/static/css/main.55364070.chunk.css",
+    "main.css": "/post-app/static/css/main.ea4ca0e0.chunk.css",
     "main.js": "/post-app/static/js/main.12b47405.chunk.js",
     "main.js.map": "/post-app/static/js/main.12b47405.chunk.js.map",
     "runtime-main.js": "/post-app/static/js/runtime-main.17506c06.js",
@@ -8,15 +8,15 @@
     "static/js/2.2038d5fa.chunk.js": "/post-app/static/js/2.2038d5fa.chunk.js",
     "static/js/2.2038d5fa.chunk.js.map": "/post-app/static/js/2.2038d5fa.chunk.js.map",
     "index.html": "/post-app/index.html",
-    "precache-manifest.0d323737d260a40d7fd742e87ba1a3c2.js": "/post-app/precache-manifest.0d323737d260a40d7fd742e87ba1a3c2.js",
+    "precache-manifest.6fc8545e2591df2dbc90f32d38272658.js": "/post-app/precache-manifest.6fc8545e2591df2dbc90f32d38272658.js",
     "service-worker.js": "/post-app/service-worker.js",
-    "static/css/main.55364070.chunk.css.map": "/post-app/static/css/main.55364070.chunk.css.map",
+    "static/css/main.ea4ca0e0.chunk.css.map": "/post-app/static/css/main.ea4ca0e0.chunk.css.map",
     "static/js/2.2038d5fa.chunk.js.LICENSE.txt": "/post-app/static/js/2.2038d5fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.17506c06.js",
     "static/js/2.2038d5fa.chunk.js",
-    "static/css/main.55364070.chunk.css",
+    "static/css/main.ea4ca0e0.chunk.css",
     "static/js/main.12b47405.chunk.js"
   ]
 }
